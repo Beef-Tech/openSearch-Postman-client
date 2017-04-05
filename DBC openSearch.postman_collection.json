@@ -1,0 +1,44 @@
+{
+	"variables": [],
+	"info": {
+		"name": "DBC openSearch",
+		"_postman_id": "66c9eb1a-ebd7-0f74-8b1e-33f74131f759",
+		"description": "https://opensource.dbc.dk/services/open-search-web-service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "openSearch - search",
+			"request": {
+				"url": "{{host}}?action=search&query={{query1}}&agency={{agency}}&profile={{profile}}&start=1&stepValue=5",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "openSearch - getObject",
+			"request": {
+				"url": "{{host}}?action=search&query={{query1}}&agency={{agency}}&profile={{profile}}&start=1&stepValue=5",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "openSearch - info",
+			"request": {
+				"url": "{{host}}?action=search&query={{query1}}&agency={{agency}}&profile={{profile}}&start=1&stepValue=5",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
