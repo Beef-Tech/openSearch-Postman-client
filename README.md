@@ -63,8 +63,8 @@ Herefter kan man vælge de kald man ønsker at udføre og trykke på den blå "S
 Hvis man har oprettet flere Environment variables, f. eks. hvis man har forskellige versioner af openSearch man gerne vil teste kan man skifte imellem environments i den drop down menu der ligger øverst til højre ved siden af "øjet" og "tandhjulet".
 
 Vær opmærksom på at de tre environments med:
-oss-services er testbrønden
-opensearch.addi.dk er produktionsbrønden med IP begrænsning
+1. oss-services er testbrønden
+2. opensearch.addi.dk er produktionsbrønden med IP begrænsning
 
 For at få adgang til produktionsbrønden skal man enten:
 1. have DBC til at åben for den IP-adresse man vil tilgå servicen fra.
