@@ -9,7 +9,7 @@ Hensigten med dette Github repository er at:
 * Dele en Postman collection bestående af et antal foruddefinerede forespørgsler til openSearch.
 * Beskrive hvordan man installerer postman.
 * Beskrive hvordan man importerer FBS Postman collectionen.
-* Beskrive hvordan man benytter environment variables til at autentificere FBS, bestemte brugere mv.
+* Beskrive hvordan man benytter environment variables til at teste forskellige versioner af openSearch.
 
 Målgruppen er webmastere der ønsker at se de data FBS udleverer til f. eks. DDB CMS.
 
